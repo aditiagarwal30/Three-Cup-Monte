@@ -38,8 +38,6 @@ guess = player_guess()
 
 # Check User's Guess
 #------------------------
-# Notice how this function takes in the input 
-# based on the output of other functions!
 check_guess(mixedup_list,guess)
 
 #voila!!
